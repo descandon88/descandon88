@@ -2,7 +2,8 @@
 - 👀 I’m interested in Economics and Complexity
 - 🌱 I’m currently learning Data Science, Python and Economics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me --> Datacamp account: @davidescandonv
+
 
 <!---
 descandon88/descandon88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
