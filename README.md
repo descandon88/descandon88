@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economics and Complexity
 - 🌱 I’m currently learning Data Science, Python and Economics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me --> Datacamp account: @descandonv | Linkedin: davidescandonv  | Twitter: @dscandon
+- 📫 How to reach me --> Datacamp: @descandonv | Linkedin: davidescandonv  | Twitter: @dscandon
 
 
 
