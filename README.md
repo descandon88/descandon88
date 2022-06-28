@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @descandon88
-- 👀 I’m interested in Economics and Complexity
-- 🌱 I’m currently learning Data Science, Python and Economics
+- 👀 I’m interested in Business and Finance
+- 🌱 I’m currently learning Data Science, Python, Economics and Complexity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> Datacamp: @descandonv | Linkedin: davidescandonv  | Twitter: @dscandon
 
