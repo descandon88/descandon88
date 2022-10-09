@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @descandon88
-- 👀 I’m interested in Technologies, Business and Fintech
+- 👀 I’m interested in Technologies
 - 🌱 I’m currently learning Data Science, Python, Economics and Complexity
 - 📫 How to reach me --> Datacamp: @descandonv | Linkedin: davidescandonv  | Twitter: @dscandon
 
