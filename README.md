@@ -1,3 +1,4 @@
+# 💫 About Me:
 👋 Hi, I’m David!<br>
 🔭  I’m interested in Technologies and looking for my fist job experience in IT industry as a developer.<br>
 🌱 I’m currently learning Python.<br>
