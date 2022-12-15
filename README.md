@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @descandon88
-- 👀 I’m interested in Technologies
-- 🌱 I’m currently learning Data Science, Python, Economics and Complexity
-- 📫 How to reach me --> 
-
-<br>🔭 I’m looking for my fist job experience in IT industry <br>🌱 I’m learning Python<br>📝<br>📫 Feel free to reach out in English or Spanish <br>
+👋 Hi, I’m David!
+🔭  I’m interested in Technologies and looking for my fist job experience in IT industry <br>
+🌱 I’m currently learning Python<br>📝<br>
+📫 Feel free to reach out in English or Spanish <br>
 📩 david.escandon.v@gmail.com <br>
 Datacamp: @descandonv  <br>
 Linkedin: davidescandonv  <br>  
