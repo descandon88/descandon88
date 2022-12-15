@@ -1,5 +1,5 @@
 👋 Hi, I’m David!<br>
-🔭  I’m interested in Technologies and looking for my fist job experience in IT industry <br>
+🔭  I’m interested in Technologies and looking for my fist job experience in IT industry as a programmer<br>
 🌱 I’m currently learning Python<br>
 📫 Feel free to reach out in English or Spanish <br>
 📩 david.escandon.v@gmail.com <br>
