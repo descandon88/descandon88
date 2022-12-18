@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m David!<br>
-🔭  I’m interested in Technologies and looking for my fist job experience in IT industry as a developer.<br>
+🔭  I’m interested in Technologies and looking for my fist job experience in IT industry as a Full Stack Developer.<br>
 🌱 I’m currently learning Python.<br>
 📫 Feel free to reach out in English or Spanish. <br>
 📩 david.escandon.v@gmail.com <br>
