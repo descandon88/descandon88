@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m David!<br>
-🔭  I’m interested in Technologies and looking for my fist job experience in IT industry as a Full Stack Web Developer.<br>
+👋 Hi, I’m David! And I like data analysis and programing<br>
+🔭 I’m interested in Technologies and looking for my fist job experience in IT industry as a Full Stack Web Developer.<br>
 🌱 I’m currently learning React and Python.<br>
-📫 Feel free to reach out in English or Spanish. <br>
+📫 Feel free to reach out in English or Spanish: <br>
 <ul>
   <li>📩 david.escandon.v@gmail.com</li>
   <li>Linkedin: davidescandonv</li> 
