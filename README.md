@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m David! I like data analysis and programing<br>
+👋 Hi, I’m David! I like data analysis and programming<br>
 🔭 I’m interested in Technologies and looking for my fist job experience in IT industry as a Full Stack Web Developer.<br>
 🌱 I’m currently learning React and Python.<br>
 📫 Feel free to reach out in English or Spanish: <br>
