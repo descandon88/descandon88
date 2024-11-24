@@ -6,7 +6,7 @@
 <ul>
   <li>📩 david.escandon.v@gmail.com</li>
   <li>Linkedin: davidescandonv</li> 
-  <li>Twitter: @dscandon</li>
+  <li>X: @dscandon</li>
   <!--<li>Datacamp: @descandonv</li>-->
 </ul>
 
