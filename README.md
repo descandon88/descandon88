@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m David! I'm a business intelligence consultant<br>
-🔭 I'm a Msc. in economcis student and a machine learning enthusiast.<br>
+🔭 I am a master's student in economics and a machine learning enthusiast.<br>
 <!--🌱 I’m currently learning React and Python.<br> -->
 📫 Feel free to reach out in English or Spanish: <br>
 <ul>
