@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m David! I'm a business intelligence consultant<br>
+👋 Hi, I’m David! I'm a data and business intelligence analyst<br>
 🔭 I am a master's student in economics and a data enthusiast.<br>
 <!--🌱 I’m currently learning React and Python.<br> -->
 📫 Feel free to reach out in English or Spanish: <br>
