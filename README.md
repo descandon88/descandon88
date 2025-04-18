@@ -1,13 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m David! I'm a data and business intelligence analyst<br>
-🔭 I am a master's student in economics and a data enthusiast.<br>
-<!--🌱 I’m currently learning React and Python.<br> -->
-📫 Feel free to reach out in English or Spanish: <br>
+👋 Hi there! I'm David — a data and business intelligence analyst with over 10 years of experience in the industrial sector who pivoted into the world of data.<br>
+🎓 I studied Electronic Engineering and recently earned my MSc in Economics.<br>
+🚀 I'm always excited to explore new open-source technologies and share knowledge.<br>
+📫 Feel free to reach out in English or Spanish:<br>
 <ul>
   <li>📩 david.escandon.v@gmail.com</li>
-  <li>Linkedin: davidescandonv</li> 
-  <li>X: @dscandon</li>
-  <!--<li>Datacamp: @descandonv</li>-->
+  <li>🔗 LinkedIn: davidescandonv</li> 
+  <li>🐦 X (Twitter): @dscandon</li>
 </ul>
 
 # 💻 Tech Stack:
