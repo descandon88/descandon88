@@ -4,7 +4,7 @@
 
 I have a background in Electronic Engineering and recently completed an MSc in Economics. My career started in the industrial sector, where I spent over 10 years working on technical and business operations before pivoting into the data field.
 
-Currently, I focus on building **data pipelines, analytics workflows and BI solutions** using tools such as **SQL, Python, dbt and DuckDB**. I'm particularly interested in the **modern data stack and analytics engineering**.
+Currently, I focus on building **data pipelines, analytics workflows and BI solutions** using tools such as **SQL, Python, dbt and Postgresql**. I'm particularly interested in the **modern data stack and analytics engineering**.
 
 🚀 In this GitHub you will find projects related to:
 - Data pipelines
